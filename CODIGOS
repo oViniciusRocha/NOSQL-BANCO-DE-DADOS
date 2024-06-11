@@ -1,0 +1,47 @@
+{
+    "pagina_inicial": "www.google.com",
+    "idioma_preferido": "Português do Brasil",
+    "localizacao": "São Paulo",
+    "tema": "Clássico",
+    "mostrar_favoritos": true,
+    "zoom": "100%"
+}
+
+
+
+{
+    "funcionarios": [
+        {
+            "nome": "João Grilo",
+            "endereco": "Rua Suassuna, 30, João Pessoa, PB",
+            "cargo": "Contador",
+            "jornada": 40,
+            "salario": "R$ 3.000,00",
+            "emails": ["grilo@mail.com", "joaog@mk.com"]
+        },
+        {
+            "nome": "Ada Byron",
+            "endereco": "Rua Lovelace, 67, London",
+            "cargo": "Developer",
+            "jornada": 20,
+            "salario": "R$ 15.000,00",
+            "emails": ["ada@mail.com", "abyron@tech.com"]
+        },
+        {
+            "nome": "Gerundino",
+            "endereco": "Rua Substantivo, 78, Bairro Predicado, Mesóclise-AC",
+            "cargo": "Linguista",
+            "jornada": 44,
+            "salario": "R$ 8.000,00",
+            "emails": ["gerundino@gmail.com"]
+        },
+        {
+            "nome": "Chicó",
+            "endereco": "Rua Eurico, 50, João Pessoa, PB, Apt 28, Bloco C",
+            "cargo": "Developer",
+            "jornada": 20,
+            "salario": "R$ 15.000,00",
+            "emails": []
+        }
+    ]
+}
